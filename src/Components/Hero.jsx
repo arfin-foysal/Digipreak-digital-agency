@@ -1,11 +1,11 @@
 import React from 'react'
 import banar from '../assets/images/3081783.jpg'
-import "./Hero.css"
+import "./AllCss.css"
 const Hero = () => {
     return (
         <div>
             <div >
-    <div class="container pt-5">
+    <div class="container py-5">
       <div class="row">
         <div class="col-lg-12">
           <div class="row">

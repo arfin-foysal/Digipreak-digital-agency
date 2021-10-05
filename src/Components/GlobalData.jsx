@@ -14,40 +14,40 @@ const GlobalData = (props) => {
     const data= [
         {
           id:1,
-          pic:{graphics},
+          pic:graphics,
           name:"Graphics Design"  ,
           des: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum eveniet autem harum deserunt velit necessitatibus delectus culpa quibusdam dolore nostrum?."
         },
         {
             id:2,
-            pic:{web},
+            pic:web,
             name:"Website Development"  ,
             des: "Web development can range from developing the simplest static website for most complex web-based internet applications."  
         },
         {
             id:3,
-            pic:{seo},
+            pic:seo,
             name:"Search Engine Optimization"  ,
             des: "We help you improve your Google ranking and increase your organic (non-paid) website traffic. SEO is more than just incorporating keywords and we can help to optimize all elements."  
         }
        ,
         {
             id:4,
-            pic:{dm},
+            pic:dm,
             name:"Social Media Managemat & Merketing"  ,
             des: "We help you with social media management, advertising and strategic content creation to help you grow your audience and reach new prospects."  
         }
        ,
         {
             id:5,
-            pic:{email},
+            pic:email,
             name:"Email Merketing"  ,
             des: "We help you with social media management, advertising and strategic content creation to help you grow your audience and reach new prospects."  
         }
        ,
         {
             id:5,
-            pic:{email},
+            pic:email,
             name:"Email Merketing"  ,
             des: "We help you with social media management, advertising and strategic content creation to help you grow your audience and reach new prospects."  
         }
